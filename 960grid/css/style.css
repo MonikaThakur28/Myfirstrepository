@@ -1,0 +1,70 @@
+ header{
+ 	background: black;
+ }
+ nav li{
+ 	display: inline;
+ 	margin-right: 10px;
+ }
+ nav a{
+ 	color: white;
+ 	text-decoration: none;
+ 	font-family: 'Fredoka One', cursive;
+ 	font-size: 105%;
+ }
+ nav{
+ 	margin-top: 80px;
+ }
+ .nav{
+ 	position: fixed;
+ }
+ .nav img{
+ 	height: 100px;
+ }
+ a:hover{
+ 	color: red;
+ 	text-decoration: underline;
+ }
+ #mainphoto{
+ 	padding-top: 115px;
+ 	height:620px;
+ 	width: 960px;
+ }
+ .primary{
+ 	padding-top: 55px;
+ 	padding-bottom: 15px;
+ 	text-align: center;
+ 	font-family: 'Special Elite', cursive;
+ }
+ .primary p{
+ 	font-family: 'Andika', sans-serif;
+ 	font-size: 115%;
+ }
+ .about{
+ 	padding-top: 28px;
+ 	text-align: justify;
+ 	color: white;
+ 	background: black;
+ 	font-family: 'Trirong', serif;
+ }
+ .footer{
+ 	padding: 50px 0 10px 320px;
+ 	margin-top: 20px;
+ 	background: black;
+ 	color: white;
+ }
+ .footer i{
+ 	padding-right: 10px;
+ }
+ i:hover{
+ 	color: #565FEF;
+ }
+ blockquote{
+ 	padding-top: 165px;
+ 	text-align: center;
+ 	font-size: 290%;
+ 	font-family: 'Great Vibes', cursive;
+ }
+ .gallary img{
+ 	width: 300px;
+ 	padding-bottom: 20px;
+ }
