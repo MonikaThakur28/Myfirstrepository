@@ -1,0 +1,108 @@
+/* CUSTOMIZE THE NAVBAR
+-------------------------------------------------- */
+.nav {
+  padding-top: 25px;
+}
+.navbar-header img
+{
+  height:100px;
+  width:120px;
+}
+
+/* CUSTOMIZE THE CAROUSEL
+-------------------------------------------------- */
+
+/* Carousel base class */
+.carousel {
+  height: 500px;
+  margin-bottom: 60px;
+  margin-top: 115px;
+}
+
+/* Declare heights because of positioning of img element */
+.carousel .item {
+  height: 500px;
+  background-color: #777;
+}
+.carousel-inner > .item > img {
+  top: 0;
+  left: 0;
+  min-width: 100%;
+  height: 500px;
+}
+
+
+
+/* MARKETING CONTENT
+-------------------------------------------------- */
+
+/* Center align the text within the three columns below the carousel */
+.marketing .col-lg-4 {
+  margin-bottom: 20px;
+  text-align: center;
+}
+.marketing h2 {
+  font-weight: normal;
+}
+.marketing .col-lg-4 p {
+  margin-right: 10px;
+  margin-left: 10px;
+  font-family: 'Bitter', serif;
+}
+.marketing panel-body img{
+  width: 140px;
+  height: 140px;
+} 
+
+
+/* ABOUT
+-------------------------------------------------- */
+.about{
+  background: black;
+  color: white;
+  margin-bottom: 60px;
+  font-family: 'PT Sans', sans-serif;
+  text-align: justify;   
+}
+.leaders{
+  margin-left: 0px;
+}
+.leaders img{
+  margin-bottom: 0px;
+}
+
+
+
+/* FOOTER
+-------------------------------------------------- */
+
+.last{
+    background-color: #333;
+    color: white;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.icons{
+   text-align: center;
+}
+.icons i{
+  padding-right: 10px;
+ }
+ i:hover{
+  color: #565FEF;
+ }
+
+
+
+/* PORTFOLIO
+-------------------------------------------------- */
+blockquote{
+  margin-top: 165px;
+  text-align: center;
+  font-size: 250%;
+  font-family: 'Great Vibes', cursive;
+  border-left-width: 0px;
+ }
+ .gallary img{
+    padding-bottom: 20px;
+ }
